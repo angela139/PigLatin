@@ -55,7 +55,7 @@ public String pigLatin(String sWord)
     }
   	else
   	{
-  		return "ERROR!";
+  		end = "ERROR!";
   	}
   }
   return end;
